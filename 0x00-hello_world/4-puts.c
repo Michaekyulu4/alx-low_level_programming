@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * Display a string using a put function.
- * Return 0(success)
+ * main - A program that displays a string using a put function.
+ * Return: 0(success)
  */
 int main(void)
 {
