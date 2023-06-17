@@ -5,6 +5,15 @@
  */
 int main(void)
 {
-	putchar("abcdefghijklmnopqrstuvwxyz\n");
+	char c;
+
+	c = 'a';
+	while
+		(c <= 'z')
+		{
+			putchar(c);
+			c++;
+		}
+	putchar("\n");
 	return (0);
 }
