@@ -5,7 +5,7 @@
  * @accept: set of bytes to be searched
  * Return: pointer to the byte or NULL
  */
-cha *_strpbrk(char *s, char *accept)
+char *_strpbrk(char *s, char *accept)
 {
 	int index;
 
