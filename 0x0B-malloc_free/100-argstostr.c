@@ -33,7 +33,7 @@ char *argstostr(int ac, char **av)
 			aout[k] = av[i][n];
 			k++;
 		}
-		if (aout[k] == '\0';)
+		if (aout[k] == '\0')
 		{
 			aout[k++] = '\n';
 		}
