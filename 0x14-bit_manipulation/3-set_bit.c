@@ -4,6 +4,7 @@
  *
  * @index: index of the value
  * @n: pointer to the bit to be manipulated
+ * Return: return 1
  */
 int set_bit(unsigned long int *n, unsigned int index)
 {
